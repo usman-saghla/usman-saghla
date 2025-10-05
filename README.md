@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Science and Machine Learning**
 
-- 💬 Ask me about **Python, Numpy, Pandas, Matplotlib, Scikit Learn, TensorFlow/Keras **
+- 💬 Ask me about **Python, Numpy, Pandas, Matplotlib, Scikit Learn, TensorFlow/Keras**
 
 - 📫 How to reach me **usmansaghla239@gmail.com**
 
